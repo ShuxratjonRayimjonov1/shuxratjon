@@ -1,0 +1,27 @@
+*{
+  padding:0px;
+  margin:0px;
+
+}
+
+body{
+  border: 3px solid grey;
+  background-color:#0afaee;
+  padding:10px;
+
+}
+table{
+  font-size:20px;
+  font-weight: lighter;
+  border:1px solid #0afaee ;
+  padding:3px;
+}
+table tr{
+  padding:2px;
+}
+h3{
+  font-style:oblique;
+  font-size:15px;
+  padding:5px;
+  margin:3px;
+}
